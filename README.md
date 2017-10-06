@@ -161,4 +161,4 @@ You can use the same logic to print every key value pairs.
 
 ***Hope this helps!***
 
-
+whois -h whois.radb.net '!gASnumber' : will give you all the IP address range for that ASnumber.
